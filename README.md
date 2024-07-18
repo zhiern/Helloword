@@ -20,6 +20,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/kenzok8/small?style=for-the-badge&label=插件下载)](https://github.com/zhiern/Zoom-PK/releases/tag/4-x86_64)
 
 + [ssr+passwall依赖仓库](https://github.com/zhiern/Helloword)
++ [OpenWrt固件下载地址](https://github.com/oppen321/haibo-OpenWrt)
 
 
 #### 使用
