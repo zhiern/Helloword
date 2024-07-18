@@ -31,7 +31,7 @@ sed -i '1i src-git zoom https://github.com/zhiern/Helloword' feeds.conf.default
 rm -rf feeds/packages/net/{alist,adguardhome,mosdns,xray*,v2ray*,v2ray*,sing*,smartdns}
 rm -rf feeds/packages/utils/v2dat
 rm -rf feeds/packages/lang/golang
-git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
+git clone https://github.com/zhiern/golong feeds/packages/lang/golang
 ./scripts/feeds install -a 
 make menuconfig
 ```
@@ -40,6 +40,6 @@ make menuconfig
 编译新版Sing-box和hysteria，尽量使用golang版本1.22以上版本 ，可以用以下命令
 ```yaml
 rm -rf feeds/packages/lang/golang
-git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
+git clone https://github.com/zhiern/golong feeds/packages/lang/golang
 ```
 
