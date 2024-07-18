@@ -21,7 +21,6 @@
 
 + [ssr+passwall依赖仓库](https://github.com/zhiern/Helloword)
 
-+ [openwrt固件与插件下载](https://op.dllkids.xyz/)
 
 #### 使用
 一键命令(防止插件冲突，删除重复)
