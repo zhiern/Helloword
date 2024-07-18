@@ -15,10 +15,6 @@
 如果单独安装ssr与依赖，rm -rf {*passwall*,*bypass*,*vssr*}
 ```
 
-* 喜欢追新的可以去下载small-package，该仓库每天自动同步更新
-
-* [small-package仓库地址](https://github.com/kenzok8/small-package) 
-
 
 ##### 插件每日更新下载:
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/kenzok8/small?style=for-the-badge&label=插件下载)](https://github.com/kenzok8/small/releases/latest)
