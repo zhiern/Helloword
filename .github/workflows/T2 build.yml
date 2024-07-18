@@ -25,7 +25,7 @@ jobs:
           fetch-depth: 0
 
       - name: Build
-        uses: zhiern/gh-action-sdk@hash
+        uses: zhiern/gh-action-sdk@main
         env:
           ARCH: ${{ matrix.arch }}-${{ matrix.sdk }}
           FEEDNAME: packages_ci
